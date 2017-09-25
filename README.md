@@ -1,2 +1,1 @@
-# com.msygit
-This is Minakshi's repository 
+This is branch b1.
